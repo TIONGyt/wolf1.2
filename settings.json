@@ -1,10 +1,10 @@
 {
   "Account": {
-    "Auth Key": "xxxxx",
-    "Currency": "usdt",
+    "Auth Key": "xxxx",
+    "Currency": "trx",
     "Auto Proxy": "OFF"
   },
-  "Target Profit": "100000000",
+  "Target Profit": "1000",
   "Target Win": "100000000",
   "Lose Target": "0",
   "Save Profit": "0",
@@ -14,8 +14,8 @@
   "Play Game": "limbo",
   "Betset": [
     {
-      "Name Bet Set": "00 - @riosuyanto",
-      "Base Bet": "0.0000001",
+      "Name Bet Set": "00 - @BEDUCODE SETTING",
+      "Base Bet": "0.00001",
       "Chance": "98",
       "Random Chance": {
         "Toggle": "ON",
@@ -23,7 +23,7 @@
         "Max": "98"
       },
       "Bet": {
-        "Bet": "Low",
+        "Bet": "Hi",
         "Hi / Low": {
           "Toggle": "OFF",
           "If Lose": "1",
@@ -31,20 +31,20 @@
         }
       },
       "Mode1": {
-        "Toggle": "OFF",
-        "Minbet": "0.00000001",
+        "Toggle": "ON",
+        "Minbet": "0.0000001",
         "Profit": "0.00000001",
         "Multi Win": {
-          "LCMin": "49",
-          "LCMax": "49"
+          "LCMin": "22",
+          "LCMax": "33"
         },
         "Multi Lose": {
           "LCMin": "1",
-          "LCMax": "5"
+          "LCMax": "4"
         },
         "Multi Limit": {
           "LCMin": "1",
-          "LCMax": "3"
+          "LCMax": "2"
         }
       },
       "Mode2": {
@@ -80,20 +80,20 @@
         }
       },
       "Mode4": {
-        "Toggle": "ON",
+        "Toggle": "OFF",
         "Prebet": "0.00000001",
         "Profit": "0.00000001",
         "Gateway": "30",
         "Passrol": "25",
-        "Multipler": "1.056",
+        "Multipler": "1.058",
         "Limitlose": "100",
         "Multi Win": {
           "LCMin": "49",
           "LCMax": "49"
         },
         "Multi Lose": {
-          "LCMin": "3",
-          "LCMax": "5"
+          "LCMin": "5",
+          "LCMax": "5.25"
         }
       }
     }
