@@ -14,8 +14,8 @@
   "Play Game": "limbo",
   "Betset": [
     {
-      "Name Bet Set": "00 - @BEDUCODE SETTING",
-      "Base Bet": "0.00001",
+      "Name Bet Set": "00 - @riosuyanto",
+      "Base Bet": "0.000001",
       "Chance": "98",
       "Random Chance": {
         "Toggle": "ON",
@@ -31,7 +31,7 @@
         }
       },
       "Mode1": {
-        "Toggle": "ON",
+        "Toggle": "OFF",
         "Minbet": "0.0000001",
         "Profit": "0.00000001",
         "Multi Win": {
@@ -80,20 +80,20 @@
         }
       },
       "Mode4": {
-        "Toggle": "OFF",
+        "Toggle": "ON",
         "Prebet": "0.00000001",
         "Profit": "0.00000001",
-        "Gateway": "30",
-        "Passrol": "25",
-        "Multipler": "1.058",
+        "Gateway": "35",
+        "Passrol": "30",
+        "Multipler": "1.056",
         "Limitlose": "100",
         "Multi Win": {
           "LCMin": "49",
           "LCMax": "49"
         },
         "Multi Lose": {
-          "LCMin": "5",
-          "LCMax": "5.25"
+          "LCMin": "3",
+          "LCMax": "5"
         }
       }
     }
