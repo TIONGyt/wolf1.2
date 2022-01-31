@@ -1,6 +1,7 @@
 {
   "Account": {
     "Auth Key": "xxxx",
+    "CF": "xxxx",
     "Currency": "trx",
     "Auto Proxy": "OFF"
   },
@@ -11,11 +12,11 @@
   "MaxLS": "0",
   "Reset Seed": "250",
   "Show Price": "OFF",
-  "Play Game": "limbo",
+  "Play Game": "dice",
   "Betset": [
     {
       "Name Bet Set": "00 - @riosuyanto",
-      "Base Bet": "0.000001",
+      "Base Bet": "0.000015",
       "Chance": "98",
       "Random Chance": {
         "Toggle": "ON",
@@ -31,12 +32,12 @@
         }
       },
       "Mode1": {
-        "Toggle": "OFF",
-        "Minbet": "0.0000001",
+        "Toggle": "ON",
+        "Minbet": "0.0000015",
         "Profit": "0.00000001",
         "Multi Win": {
-          "LCMin": "22",
-          "LCMax": "33"
+          "LCMin": "6",
+          "LCMax": "9"
         },
         "Multi Lose": {
           "LCMin": "1",
@@ -80,20 +81,20 @@
         }
       },
       "Mode4": {
-        "Toggle": "ON",
+        "Toggle": "OFF",
         "Prebet": "0.00000001",
         "Profit": "0.00000001",
-        "Gateway": "35",
-        "Passrol": "30",
-        "Multipler": "1.056",
+        "Gateway": "30",
+        "Passrol": "25",
+        "Multipler": "1.058",
         "Limitlose": "100",
         "Multi Win": {
           "LCMin": "49",
           "LCMax": "49"
         },
         "Multi Lose": {
-          "LCMin": "3",
-          "LCMax": "5"
+          "LCMin": "5",
+          "LCMax": "5.25"
         }
       }
     }
