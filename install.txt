@@ -32,3 +32,4 @@ faunadb
 websocket
 websocket-client
 flask
+scrapingbee
