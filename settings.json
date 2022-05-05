@@ -86,14 +86,14 @@
         "Profit": "0.00000001",
         "Gateway": "5",
         "Passrol": "4",
-        "Multipler": "2.25",
+        "Multipler": "1.056",
         "Limitlose": "100",
         "Multi Win": {
-          "LCMin": "50",
-          "LCMax": "50"
+          "LCMin": "4",
+          "LCMax": "5"
         },
         "Multi Lose": {
-          "LCMin": "25",
+          "LCMin": "45",
           "LCMax": "50"
         }
       }
